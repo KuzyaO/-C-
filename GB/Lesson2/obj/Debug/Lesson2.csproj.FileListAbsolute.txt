@@ -1,0 +1,16 @@
+G:\GB HOMEWORK\GB\-C-\Lesson2\bin\Debug\Lesson2.exe.config
+G:\GB HOMEWORK\GB\-C-\Lesson2\bin\Debug\Lesson2.exe
+G:\GB HOMEWORK\GB\-C-\Lesson2\bin\Debug\Lesson2.pdb
+G:\GB HOMEWORK\GB\-C-\Lesson2\obj\Debug\Lesson2.csproj.AssemblyReference.cache
+G:\GB HOMEWORK\GB\-C-\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+G:\GB HOMEWORK\GB\-C-\Lesson2\obj\Debug\Lesson2.exe
+G:\GB HOMEWORK\GB\-C-\Lesson2\obj\Debug\Lesson2.pdb
+G:\GB HOMEWORK\GB\Lesson2\bin\Debug\Lesson2.exe.config
+G:\GB HOMEWORK\GB\Lesson2\bin\Debug\Lesson2.exe
+G:\GB HOMEWORK\GB\Lesson2\bin\Debug\Lesson2.pdb
+G:\GB HOMEWORK\GB\Lesson2\obj\Debug\Lesson2.csproj.AssemblyReference.cache
+G:\GB HOMEWORK\GB\Lesson2\obj\Debug\Lesson2.Properties.Resources.resources
+G:\GB HOMEWORK\GB\Lesson2\obj\Debug\Lesson2.csproj.GenerateResource.cache
+G:\GB HOMEWORK\GB\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+G:\GB HOMEWORK\GB\Lesson2\obj\Debug\Lesson2.exe
+G:\GB HOMEWORK\GB\Lesson2\obj\Debug\Lesson2.pdb
