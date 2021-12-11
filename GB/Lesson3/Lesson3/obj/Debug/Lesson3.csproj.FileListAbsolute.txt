@@ -1,0 +1,7 @@
+G:\GB HOMEWORK\GB\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.AssemblyReference.cache
+G:\GB HOMEWORK\GB\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+G:\GB HOMEWORK\GB\Lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+G:\GB HOMEWORK\GB\Lesson3\Lesson3\bin\Debug\Lesson3.exe
+G:\GB HOMEWORK\GB\Lesson3\Lesson3\bin\Debug\Lesson3.pdb
+G:\GB HOMEWORK\GB\Lesson3\Lesson3\obj\Debug\Lesson3.exe
+G:\GB HOMEWORK\GB\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
